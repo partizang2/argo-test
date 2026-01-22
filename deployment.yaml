@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: hello-world
-          image: partizang2/k8s:latest
+          image: partizang2/k8s:5
           ports:
             - containerPort: 8080
 
